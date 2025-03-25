@@ -5,10 +5,7 @@ Bienvenido a nuestra Tienda de Zapatos Deportivos, tu destino en línea para enc
 ## Contenido
 
 - [Productos](#productos)
-- [Marcas](#marcas)
-- [Ofertas Especiales](#ofertas-especiales)
 - [Métodos de Pago](#métodos-de-pago)
-- [Envíos](#envíos)
 - [Contacto](#contacto)
 
 ## Productos
