@@ -27,10 +27,6 @@ Trabajamos con las mejores marcas de calzado deportivo, incluyendo:
 - Reebok
 - Under Armour
 
-## Ofertas Especiales
-
-Consulta nuestras ofertas especiales y descuentos en productos seleccionados. Aprovecha nuestras promociones para obtener el mejor precio en tus compras.
-
 ## Métodos de Pago
 
 Aceptamos diversos métodos de pago para tu comodidad:
@@ -38,12 +34,6 @@ Aceptamos diversos métodos de pago para tu comodidad:
 - Tarjetas de Crédito y Débito
 - PayPal
 - Transferencias Bancarias
-
-## Envíos
-
-Realizamos envíos a todo el país. Los tiempos de entrega varían según tu ubicación, pero generalmente recibirás tu pedido en un plazo de 3 a 7 días hábiles.
-
-**Envíos gratis** en compras superiores a $100.
 
 ## Contacto
 
